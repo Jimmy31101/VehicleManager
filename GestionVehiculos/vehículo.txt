@@ -1,0 +1,6 @@
+ID: 11ea948f-0ead-4604-bbc4-5a53545ac761 Marca: Ford Modelo: Fiesta Año de Fabricación: 2018 Nº de puertas: 3
+ID: 3fc7c895-49b2-43c1-84d0-7ce3e35bc44c Marca: Mercedes-Benz Modelo: c200cdi Año de Fabricación: 2012 Nº de puertas: 4
+ID: 4c63b3a6-9b8e-4124-b1d6-315a94adc479 Marca: Hyundai Modelo: i30N Año de Fabricación: 2024 Nº de puertas: 5
+ID: fe9199bd-7477-4a8f-9e3c-ea6e1b9c4979 Marca: Ducati Modelo: 748s Año de Fabricación: 1999 Sidecar: false
+ID: 9a528aa0-ab4f-4236-83a0-7251037fc3c4 Marca: Honda Modelo: cb650r Año de Fabricación: 2024 Sidecar: false
+ID: 9f8184e5-f62c-4d92-b23a-70ab553549b0 Marca: Yamaha Modelo: R9 Año de Fabricación: 2025 Sidecar: false
